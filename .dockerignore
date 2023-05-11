@@ -1,0 +1,15 @@
+# Folders
+/Include
+/Lib
+/Scripts
+/.git
+/.vscode
+
+#Files
+.dockerignore
+.gitignore
+docker-compose.yml
+Dockerfile-Monitor
+Dockerfile-Query
+pyvenv.cfg
+README.md
