@@ -1,0 +1,5 @@
+matplotlib
+pymongo
+pandas
+requests
+pyYAML

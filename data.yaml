@@ -1,0 +1,17 @@
+- services:
+    name: Cloudflare
+    type: https
+    time: 10
+    hostname: https://cloudflare.com
+    discord: Insert Your Webhook Here
+    name: Atlantic-Cloud
+    type: https
+    time: 30
+    hostname: https://atlantic-cloud.com
+    discord: Insert Your Webhook Here
+- services:
+    name: OpenAI
+    type: ping
+    time: 60
+    hostname: https://openai.com
+    discord: Insert Your Webhook Here
